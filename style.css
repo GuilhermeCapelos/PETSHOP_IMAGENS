@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.d-flex {
+    max-width: 50rem;
+    max-height: 50rem;
+}
+
+img {
+    padding: 2rem;
+    margin-left: 25rem;
+}
